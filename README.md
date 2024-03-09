@@ -2,7 +2,7 @@
 
 ## Table of Contents
 ### [Week 0](/week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice](/Week%200/indoor/)
+- [Indoor Voice](/Week 0/indoor/)
 - [Playback Speed](/Week%200/playback/)
 - [Making Faces](/Week%200/faces/)
 - [Einstein](/Week%200/einstein/)
