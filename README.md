@@ -1,6 +1,5 @@
 # My solutions for the problem sets of CS50P
 
-## Table of Contents
 ### [Week 0](/week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/week%200/indoor/)
 - [Playback Speed](/week%200/playback/)
